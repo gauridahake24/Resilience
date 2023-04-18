@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "393627280927",
+    "project_id": "resilience-2c885",
+    "storage_bucket": "resilience-2c885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393627280927:android:494e79214b4eeb5e88172a",
+        "android_client_info": {
+          "package_name": "com.mycompany.resilience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393627280927-9hna1rg4n2ohkd3g7a37e9vrcei538lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.resilience",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393627280927-mv4bicdjjmn7iuhn7q1ilb5eqb492au2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNyp6fUNGx_yVgncLJComM5AEBrjgCZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393627280927-mv4bicdjjmn7iuhn7q1ilb5eqb492au2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393627280927-q33538cv91n5emnq3l91lskm3baejsno.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.resilience"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

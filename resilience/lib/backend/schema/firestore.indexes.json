@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Appointment",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Appointment_person",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "appointment_date_time",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Appointment",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "attended",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "appointment_date_time",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
